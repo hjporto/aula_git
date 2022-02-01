@@ -1,1 +1,6 @@
-uma primeira modificação
+-uma primeira modificação
+-outra modificação
+Essa modificação pode ter varias linhas
+1
+2
+3
